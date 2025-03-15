@@ -1,0 +1,6 @@
+projectKey=Minggu-04
+serverUrl=http://localhost:9099
+serverVersion=25.3.0.104237
+dashboardUrl=http://localhost:9099/dashboard?id=Minggu-04
+ceTaskId=84faf871-6019-4d8f-b4d5-45649efdca06
+ceTaskUrl=http://localhost:9099/api/ce/task?id=84faf871-6019-4d8f-b4d5-45649efdca06

@@ -18,4 +18,4 @@ if (isset($_GET['delete'])) {
     header('Location: ../index.php');
     exit();
 }
-?>
+
